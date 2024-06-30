@@ -1,4 +1,4 @@
-# 2024 Lok Sabha Election Results Analysis 🗳️
+# 2024 Lok Sabha Election Results Analysis 🗳️📊
 
 ![2024 Lok Sabha Election](https://www.businesstoday.in/whatever_image_link_you_want.jpg)
 
