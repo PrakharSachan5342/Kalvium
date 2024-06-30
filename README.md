@@ -1,5 +1,7 @@
 # 2024 Lok Sabha Election Results Analysis 🗳️
 
+![2024 Lok Sabha Election](https://www.businesstoday.in/whatever_image_link_you_want.jpg)
+
 Welcome to our GitHub repository for the 2024 Lok Sabha Election Results analysis project. Here, we analyze and visualize the election data using Python and Selenium.
 
 ## Overview 📊
