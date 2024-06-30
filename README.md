@@ -1,6 +1,6 @@
-# 🚀 2024 Lok Sabha Election Results Analysis 🗳️📊
+# 2024 Lok Sabha Election Results Analysis 🗳️📊
 
-![2024 Lok Sabha Election](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.myeducationwire.com%2Flok-sabha-election-2024%2F&psig=AOvVaw0Ilfe-PeiOSBrYSFPSuFwK&ust=1719869316416000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIje5NWihIcDFQAAAAAdAAAAABAJ)
+![2024 Lok Sabha Election](https://via.placeholder.com/600x400.png?text=2024+Lok+Sabha+Election)
 
 Welcome to our GitHub repository for the 2024 Lok Sabha Election Results analysis project. Here, we analyze and visualize the election data using Python and Selenium.
 
